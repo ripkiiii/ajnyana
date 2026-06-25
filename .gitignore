@@ -1,0 +1,9 @@
+data/
+*.bin
+*.pt
+*.ckpt
+__pycache__/
+*.pyc
+.DS_Store
+*.egg-info/
+.env
