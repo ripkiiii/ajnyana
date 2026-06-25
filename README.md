@@ -45,7 +45,7 @@ ajnyana/
 
 | Phase | Status |
 |-------|--------|
-| Corpus collection | ⏳ |
+| Corpus collection | ✅ 103M tokens, 266K docs |
 | Tokenizer | ⏳ |
 | Architecture | ⏳ |
 | Pre-training | ⏳ |
