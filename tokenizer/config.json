@@ -1,0 +1,9 @@
+{
+  "vocab_size": 16000,
+  "model_type": "byte-level-bpe",
+  "special_tokens": {
+    "endoftext": "<|endoftext|>"
+  },
+  "trained_on": "ajnyana-corpus-v1",
+  "date": "2026-06-25"
+}
