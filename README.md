@@ -46,11 +46,11 @@ ajnyana/
 | Phase | Status |
 |-------|--------|
 | Corpus collection | ✅ 103M tokens, 266K docs |
-| Tokenizer | ⏳ |
-| Architecture | ⏳ |
-| Pre-training | ⏳ |
-| Eval | ⏳ |
-| Release | ⏳ |
+| Tokenizer | ✅ |
+| Architecture | ✅ |
+| Pre-training | ✅ |
+| Eval | ✅ |
+| Release | ✅ |
 
 ## HuggingFace
 
